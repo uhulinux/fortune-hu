@@ -1,0 +1,35 @@
+------------------------------------------------------------------------
+r6 | egmont | 2005-08-31 17:00:23 +0200 (sze, 31 aug 2005) | 1 line
+Changed paths:
+   A /tags/0.0.2 (from /trunk:5)
+
+0.0.2
+------------------------------------------------------------------------
+r5 | egmont | 2005-08-31 16:57:18 +0200 (sze, 31 aug 2005) | 2 lines
+Changed paths:
+   M /trunk/hu/fortunes
+   M /trunk/hu-not-for-kids/sex
+
+- UTF-8
+
+------------------------------------------------------------------------
+r3 | egmont | 2003-09-28 19:10:18 +0200 (v, 28 szept 2003) | 2 lines
+Changed paths:
+   M /trunk/hu/fortunes
+   A /trunk/hu-not-for-kids
+   A /trunk/hu-not-for-kids/sex
+
+cenzúra :-)
+
+------------------------------------------------------------------------
+r1 | egmont | 2003-09-28 17:52:39 +0200 (v, 28 szept 2003) | 2 lines
+Changed paths:
+   A /branches
+   A /tags
+   A /trunk
+   A /trunk/hu
+   A /trunk/hu/fortunes
+
+import
+
+------------------------------------------------------------------------
